@@ -1,0 +1,11 @@
+{
+  "movies": [
+    {
+      "title": "Test",
+      "desc": "Very good film",
+      "price": "300",
+      "img": "https://image.api.playstation.com/vulcan/img/rnd/202011/0714/vuF88yWPSnDfmFJVTyNJpVwW.png",
+      "id": 3
+    }
+  ]
+}
